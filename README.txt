@@ -1,0 +1,1 @@
+Open index.html in any browser. Click a student name to open their page. Click the certificate image to open their PDF. Keep the assets folder beside the HTML files. All pages work offline. This demo is not affiliated with Cisco and does not verify course completion. Login and Sign up are decorative disabled controls.
